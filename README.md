@@ -1,4 +1,4 @@
-# BI-PA1.21
+# BI-PA1.21 (Programming and Algorithms 1)
 
 A collection of home works I've done during the 1st semester at bachelor
 study program "Informatics" at FIT CTU. Final grade is B.   \
