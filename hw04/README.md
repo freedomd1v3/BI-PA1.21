@@ -1,3 +1,5 @@
-# hw04
-Monorepozitář, obsahující zdrojové kódy řešení čtvrté domácí úlohy, příkladu "Posloupnost čísel".  
-Přemýšlím, že toto byla jedna z nejlehčích úloh, které jsem dosud dělal.
+# hw04 (Sequence of numbers)
+
+I didn't want to translate the assignment (it's quite long),
+so I included it and results in "assignment.pdf" and "results.pdf"
+files respectively.
