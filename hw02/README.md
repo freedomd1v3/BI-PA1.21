@@ -1,4 +1,7 @@
-# hw02
-Monorepozitář, obsahující zdrojový kód řešení druhé domácí úlohy, příkladu "Body v rovině".  
-Dlouho tu chybělo fungující porovnání c hodnotou DBL_EPSILON, kvůli tomu se tento program hodnotí 4.49 body v ProgTestu :(  
-... Ale nakonec jsem to aspoň zvládl :)
+# hw02 (Points in the 2D plane)
+
+The task was to request a user for 3 points in a plane and tell, if those
+lie on the same straight line, if they don't lie on the same straight line
+or if they are the same.  
+
+![Results](results.png)
